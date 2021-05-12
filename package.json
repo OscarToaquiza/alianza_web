@@ -18,7 +18,7 @@
     "mongoose": "^4.11.9",
     "mongoose-pagination": "^1.0.0",
     "morgan": "~1.8.1",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.11.0",
     "serve-favicon": "~2.4.2"
   }
